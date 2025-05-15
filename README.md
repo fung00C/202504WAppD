@@ -7,6 +7,18 @@ Spring Boot
 Open the website at this URL:
 http://localhost:8084/pj
 
+### H2 Database 
+Name: myDB
+Username: as
+Password: password
+
+Initial user accounts of your application:
+Login name | Passwork | User type
+---------------------------------
+keith | keithpw | Admin, User
+john | johnpw | User
+code | codepw | User
+
 ### App Function
 a. Website hierarchy: 
   1. The website has an index page, which shows the course name, a list of lectures, and a list of 
