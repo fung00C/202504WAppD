@@ -14,7 +14,6 @@ Password: password
 
 Initial user accounts of your application:
 Login name | Passwork | User type
----------------------------------
 keith | keithpw | Admin, User
 john | johnpw | User
 code | codepw | User
