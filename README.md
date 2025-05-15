@@ -8,15 +8,20 @@ Open the website at this URL:
 http://localhost:8084/pj
 
 ### H2 Database 
-**Name:** myDB
-**Username:** as
-**Password:** password
+**Name:** 
+myDB
+
+**Username:** 
+as
+
+**Password:** 
+password
 
 ### Initial user accounts of your application:
 
 | Login name | Passwork | User type |
 | ---------- | -------- | --------- |
-| keith | keithpw | Admin, User |
+| keith | keithpw | Admin User |
 | john | johnpw | User |
 | code | codepw | User |
 
