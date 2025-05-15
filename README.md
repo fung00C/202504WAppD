@@ -13,10 +13,16 @@ Username: as
 Password: password
 
 Initial user accounts of your application:
-Login name | Passwork | User type
-keith | keithpw | Admin, User
-john | johnpw | User
-code | codepw | User
+
+Login name: keith
+Passwork: keithpw
+User type: Admin, User
+
+| Login name | Passwork | User type |
+|------------|----------|-----------|
+| keith | keithpw | Admin, User |
+| john | johnpw | User |
+| code | codepw | User |
 
 ### App Function
 a. Website hierarchy: 
