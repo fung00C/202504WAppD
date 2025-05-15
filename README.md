@@ -21,17 +21,23 @@ a. Website hierarchy:
       shown and can be edited),
      • the current number of votes for each MC option,
      • a list of comments from registered users (including the teachers and students).
+
 b. Student registration (for unregistered users) and login function: 
   1. Information includes username, password, full name, email address, and phone number.
+
 c. Unregistered users can read all contents on the index page but not the other pages.
+
 d. Registered students can read content on all pages, and do the followings: 
   1. Write new comments. 
   2. Vote for polls (If the user has voted, the chosen option can be edited by the same user). 
   3. Update the user’s personal information except the username.
+
 e. The teachers (at least one and can be more than one) can do anything a registered student can do, plus the followings: 
   1. Edit (add, remove, update) the list of admins and registered users, and their information.   
   2. Add and delete course material pages and poll pages.
   3. Add and delete course materials or comments.
+
 f. A voting history page of a registered user (including the teachers and students). 
+
 g. A comment history page of a registered user (including the lecturer and students). 
 
